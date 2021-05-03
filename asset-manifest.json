@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.44456c1a.chunk.css",
-    "main.js": "/static/js/main.197fe8e1.chunk.js",
-    "main.js.map": "/static/js/main.197fe8e1.chunk.js.map",
+    "main.js": "/static/js/main.b8e76b12.chunk.js",
+    "main.js.map": "/static/js/main.b8e76b12.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.29820b8f.js",
     "runtime-main.js.map": "/static/js/runtime-main.29820b8f.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/static/css/2.4c97ca4f.chunk.css",
@@ -22,7 +22,12 @@
     "static/media/sweepcafe.198907d4.png": "/static/media/sweepcafe.198907d4.png",
     "static/media/sweepimac.0d9eff68.png": "/static/media/sweepimac.0d9eff68.png",
     "static/media/sweepprocess.c651ef38.png": "/static/media/sweepprocess.c651ef38.png",
+    "static/media/teamfolkesson.aa9cfb6c.png": "/static/media/teamfolkesson.aa9cfb6c.png",
     "static/media/tfniphone.cf31cf3e.png": "/static/media/tfniphone.cf31cf3e.png",
+    "static/media/tfrboth.44a49b39.png": "/static/media/tfrboth.44a49b39.png",
+    "static/media/tfrcomp.79aa894c.png": "/static/media/tfrcomp.79aa894c.png",
+    "static/media/tfrscreen.acb77c77.png": "/static/media/tfrscreen.acb77c77.png",
+    "static/media/tfrtelefon.5c8da0f0.png": "/static/media/tfrtelefon.5c8da0f0.png",
     "static/media/tottot3.74498f49.png": "/static/media/tottot3.74498f49.png",
     "static/media/tottotiphone.522a96fc.png": "/static/media/tottotiphone.522a96fc.png",
     "static/media/tottotprocess.124381d4.png": "/static/media/tottotprocess.124381d4.png"
@@ -32,6 +37,6 @@
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.093de09b.chunk.js",
     "static/css/main.44456c1a.chunk.css",
-    "static/js/main.197fe8e1.chunk.js"
+    "static/js/main.b8e76b12.chunk.js"
   ]
 }
