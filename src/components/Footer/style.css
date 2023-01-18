@@ -1,0 +1,30 @@
+.main-footer {
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #131515;
+}
+
+.list-unstyles {
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 0;
+}
+
+.iconfooter {
+  color: black;
+}
+
+.iconfooter:hover {
+  color: #ff6c00;
+  transform: scale(1.1);
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}

@@ -1,0 +1,42 @@
+
+.my_card {
+    width: 60vw;
+    height: 200px;
+    margin-top: 10rem;
+    overflow: hidden;
+    margin-right: auto;
+    margin-left: auto;
+    border: 2px solid #ff6c00;
+  }
+
+.img_my {
+    max-width: 100%;
+    max-height: auto;
+    overflow: hidden;
+}
+
+.icon {
+  font-size: 3em;
+  
+}
+
+.icons {
+  margin-top: 4vh;
+  display: flex;
+  justify-content: space-around;
+  
+}
+
+@media screen and (max-width: 900px) {
+  .icon {
+    font-size: 2em;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .my_card {
+    width: 90vw;
+    height: 150px;
+    margin-top: 5rem;
+  }
+}

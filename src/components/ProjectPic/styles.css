@@ -1,0 +1,25 @@
+
+.picture_card {
+    width: 60vw;
+    height: auto;
+    margin-top: 2rem;
+    overflow: hidden;
+    margin-right: auto;
+    margin-left: auto;
+    box-shadow: -1px 3px 5px #cecece;
+  }
+
+
+.project_img {
+    max-width: 100%;
+    max-height: auto;
+    overflow: hidden;
+}
+
+@media screen and (max-width: 910px) {
+  .picture_card {
+    width: 95vw;
+    height: auto;
+    margin-top: 0.7rem;
+  }
+}

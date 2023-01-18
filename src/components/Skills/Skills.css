@@ -1,0 +1,27 @@
+.skills_card {
+  width: 60vw;
+  height: 20vw;
+  margin-top: 2rem;
+  overflow: hidden;
+  margin-right: auto;
+  margin-left: auto;
+  box-shadow: -1px 3px 5px #93918e;
+}
+
+.skills_card:hover {
+  transform: scale(1.02);
+}
+
+.img_skills {
+  max-width: 50%;
+  max-height: auto;
+  overflow: hidden;
+}
+
+@media screen and (max-width: 600px) {
+  .skills_card {
+    width: 95vw;
+    height: 25.3vw;
+    margin-top: 0.7rem;
+  }
+}
