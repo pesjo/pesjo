@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pesjo.github.io/static/css/main.80c96afb.chunk.css",
+    "main.js": "/pesjo.github.io/static/js/main.018f9d03.chunk.js",
+    "main.js.map": "/pesjo.github.io/static/js/main.018f9d03.chunk.js.map",
+    "runtime-main.js": "/pesjo.github.io/static/js/runtime-main.0c6c3a4d.js",
+    "runtime-main.js.map": "/pesjo.github.io/static/js/runtime-main.0c6c3a4d.js.map",
+    "static/js/2.772fad4d.chunk.js": "/pesjo.github.io/static/js/2.772fad4d.chunk.js",
+    "static/js/2.772fad4d.chunk.js.map": "/pesjo.github.io/static/js/2.772fad4d.chunk.js.map",
+    "static/js/3.ac7bfe98.chunk.js": "/pesjo.github.io/static/js/3.ac7bfe98.chunk.js",
+    "static/js/3.ac7bfe98.chunk.js.map": "/pesjo.github.io/static/js/3.ac7bfe98.chunk.js.map",
+    "index.html": "/pesjo.github.io/index.html",
+    "static/css/main.80c96afb.chunk.css.map": "/pesjo.github.io/static/css/main.80c96afb.chunk.css.map",
+    "static/js/2.772fad4d.chunk.js.LICENSE.txt": "/pesjo.github.io/static/js/2.772fad4d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/pesjo.github.io/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c6c3a4d.js",
+    "static/js/2.772fad4d.chunk.js",
+    "static/css/main.80c96afb.chunk.css",
+    "static/js/main.018f9d03.chunk.js"
+  ]
+}
